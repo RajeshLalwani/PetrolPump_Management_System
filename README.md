@@ -41,8 +41,8 @@ PetrolPump_Management_System/
 │
 ├── bin/                      # Compiled application files
 ├── PetrolPumpDB.mdf          # SQL scripts and DB schema
-├── Forms/                    # WinForms UI files
-├── Reports/                  # Crystal Report templates
+├── Properties/               # WinForms UI files
+├── obj/x86/Debug             # .resourse Files
 ├── Resourses/                # Images and other Resourse Files
 ├── App.config                # Configuration file
 ├── Program.cs                # Entry point
