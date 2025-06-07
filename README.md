@@ -39,11 +39,11 @@ A desktop-based application built with **C# and Windows Forms**, designed to aut
 ```bash
 PetrolPump_Management_System/
 │
-├── bin/                      # Compiled application files
+├── bin/                      # Compiled application Files
 ├── PetrolPumpDB.mdf          # SQL scripts and DB schema
-├── Properties/               # WinForms UI files
-├── obj/x86/Debug             # .resourse Files
+├── Properties/               # Properties and Assembly Files
+├── obj/x86/Debug             # Debug Files and cache Files
 ├── Resourses/                # Images and other Resourse Files
-├── App.config                # Configuration file
+├── App.config                # Configuration File
 ├── Program.cs                # Entry point
-└── PetrolPump.sln            # Visual Studio solution file
+└── PetrolPump.sln            # Visual Studio solution File
