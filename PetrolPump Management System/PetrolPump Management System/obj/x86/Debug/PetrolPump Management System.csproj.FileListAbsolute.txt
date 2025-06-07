@@ -1,0 +1,34 @@
+C:\Users\intel\Documents\PetrolPump Management System\PetrolPump Management System\bin\Debug\PetrolPump Management System.exe
+C:\Users\intel\Documents\PetrolPump Management System\PetrolPump Management System\bin\Debug\PetrolPump Management System.pdb
+C:\Users\intel\Documents\PetrolPump Management System\PetrolPump Management System\obj\x86\Debug\PetrolPump_Management_System.Login.resources
+C:\Users\intel\Documents\PetrolPump Management System\PetrolPump Management System\obj\x86\Debug\PetrolPump_Management_System.Properties.Resources.resources
+C:\Users\intel\Documents\PetrolPump Management System\PetrolPump Management System\obj\x86\Debug\PetrolPump Management System.csproj.GenerateResource.Cache
+C:\Users\intel\Documents\PetrolPump Management System\PetrolPump Management System\obj\x86\Debug\PetrolPump Management System.exe
+C:\Users\intel\Documents\PetrolPump Management System\PetrolPump Management System\obj\x86\Debug\PetrolPump Management System.pdb
+C:\Users\intel\Documents\PetrolPump Management System\PetrolPump Management System\obj\x86\Debug\PetrolPump_Management_System.Home.resources
+C:\Users\intel\Documents\PetrolPump Management System\PetrolPump Management System\obj\x86\Debug\PetrolPump_Management_System.Staff.resources
+C:\Users\intel\Documents\PetrolPump Management System\PetrolPump Management System\obj\x86\Debug\PetrolPump_Management_System.Supplier.resources
+C:\Users\intel\Documents\PetrolPump Management System\PetrolPump Management System\obj\x86\Debug\PetrolPump_Management_System.Billing.resources
+C:\Users\intel\Documents\PetrolPump Management System\PetrolPump Management System\obj\x86\Debug\PetrolPump_Management_System.DashBoard.resources
+C:\Users\intel\Documents\PetrolPump Management System\PetrolPump Management System\obj\x86\Debug\PetrolPump_Management_System.Fuels.resources
+C:\Users\intel\Documents\PetrolPump Management System\PetrolPump Management System\obj\x86\Debug\PetrolPump_Management_System.Machines.resources
+C:\Users\intel\Documents\Visual Studio 2010\Projects\PetrolPump Management System\PetrolPump Management System\obj\x86\Debug\PetrolPump Management System.exe
+C:\Users\intel\Documents\Visual Studio 2010\Projects\PetrolPump Management System\PetrolPump Management System\obj\x86\Debug\PetrolPump Management System.pdb
+C:\Users\intel\Documents\Visual Studio 2010\Projects\PetrolPump Management System\PetrolPump Management System\bin\Debug\PetrolPump Management System.exe
+C:\Users\intel\Documents\Visual Studio 2010\Projects\PetrolPump Management System\PetrolPump Management System\bin\Debug\PetrolPump Management System.pdb
+C:\Users\intel\Documents\Visual Studio 2010\Projects\PetrolPump Management System\PetrolPump Management System\obj\x86\Debug\PetrolPump_Management_System.Billing.resources
+C:\Users\intel\Documents\Visual Studio 2010\Projects\PetrolPump Management System\PetrolPump Management System\obj\x86\Debug\PetrolPump_Management_System.DashBoard.resources
+C:\Users\intel\Documents\Visual Studio 2010\Projects\PetrolPump Management System\PetrolPump Management System\obj\x86\Debug\PetrolPump_Management_System.Fuels.resources
+C:\Users\intel\Documents\Visual Studio 2010\Projects\PetrolPump Management System\PetrolPump Management System\obj\x86\Debug\PetrolPump_Management_System.Home.resources
+C:\Users\intel\Documents\Visual Studio 2010\Projects\PetrolPump Management System\PetrolPump Management System\obj\x86\Debug\PetrolPump_Management_System.Login.resources
+C:\Users\intel\Documents\Visual Studio 2010\Projects\PetrolPump Management System\PetrolPump Management System\obj\x86\Debug\PetrolPump_Management_System.Machines.resources
+C:\Users\intel\Documents\Visual Studio 2010\Projects\PetrolPump Management System\PetrolPump Management System\obj\x86\Debug\PetrolPump_Management_System.Properties.Resources.resources
+C:\Users\intel\Documents\Visual Studio 2010\Projects\PetrolPump Management System\PetrolPump Management System\obj\x86\Debug\PetrolPump_Management_System.Staff.resources
+C:\Users\intel\Documents\Visual Studio 2010\Projects\PetrolPump Management System\PetrolPump Management System\obj\x86\Debug\PetrolPump_Management_System.Supplier.resources
+C:\Users\intel\Documents\Visual Studio 2010\Projects\PetrolPump Management System\PetrolPump Management System\obj\x86\Debug\PetrolPump Management System.csproj.GenerateResource.Cache
+C:\Users\intel\Documents\Visual Studio 2010\Projects\PetrolPump Management System\PetrolPump Management System\bin\Debug\PetrolPump Management System.exe.config
+C:\Users\intel\Documents\Visual Studio 2010\Projects\PetrolPump Management System\PetrolPump Management System\bin\Debug\PetrolPumpDB.mdf
+C:\Users\intel\Documents\Visual Studio 2010\Projects\PetrolPump Management System\PetrolPump Management System\bin\Debug\PetrolPumpDB_log.ldf
+C:\Users\intel\Documents\Visual Studio 2010\Projects\PetrolPump Management System\PetrolPump Management System\obj\x86\Debug\PetrolPump Management System.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Raj Resumes\Projects\PetrolPump Management System\PetrolPump Management System\bin\Debug\PetrolPump Management System.exe.config
+C:\Users\ASUS\Documents\Raj Resumes\Projects\PetrolPump Management System\PetrolPump Management System\obj\x86\Debug\PetrolPump Management System.exe
